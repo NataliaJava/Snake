@@ -1,17 +1,9 @@
 # Snake
 ![Snake](https://user-images.githubusercontent.com/105055910/167138458-14767cc2-2dd4-4d56-af59-7ab49a6d24fd.png)
 
-## Live video
-https://www.canva.com/design/DAE_7WHu7NE/b3EV1AZmtPq5HJuMD4-bpQ/watch?utm_content=DAE_7WHu7NE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
 ## Description
 
 <p>Classic cult game familiar to us all since childhood. </p>
-
-![2](https://user-images.githubusercontent.com/105055910/167157666-c7527d6d-95da-4829-9783-4a0f11e9187d.png)
-
-![1](https://user-images.githubusercontent.com/105055910/167157695-f62f349c-2123-432e-9061-32c3c61ceff1.png)
-
 
 ## History developing game
 
